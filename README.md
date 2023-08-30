@@ -2,7 +2,7 @@
 
 My name is Kishan Vethanayagam and I am a second-year student studying Engineering Science at the University of Toronto.
 
-I work in both Python and C, and I previously worked as a software engineer at Scotiabank.
+I work in both Python and C, and I currently work as a software engineer at Scotiabank.
 
 <!--
 **Kvethanayagam04/kvethanayagam04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
